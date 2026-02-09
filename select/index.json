@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "No Problems",
+  "base_artist": "Ginger Root",
+  "createdAt": "2026-02-09T16:09:08.805473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Shoes, No Shirt, No Problems - Re-Tracked / Master Version",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/01_No_Shoes,_No_Shirt,_No_Problems_-_Re-Tracked___Master_Version_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jambo - Hakuna Matata (No Problems)",
+      "artist": "Boney M.",
+      "has_synced": false,
+      "path": "select/02_Jambo_-_Hakuna_Matata_(No_Problems)_Boney_M..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Problems",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/03_No_Problems_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Problems",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/04_No_Problems_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Shoes, No Shirt, No Problems",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/05_No_Shoes,_No_Shirt,_No_Problems_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Shoes, No Shirt, No Problems",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/06_No_Shoes,_No_Shirt,_No_Problems_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Problems",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/07_No_Problems_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Problems",
+      "artist": "Bazanji",
+      "has_synced": true,
+      "path": "select/08_No_Problems_Bazanji.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Problems (feat. Rich Homie Quan)",
+      "artist": "Gucci Mane feat. Rich Homie Quan",
+      "has_synced": true,
+      "path": "select/09_No_Problems_(feat._Rich_Homie_Quan)_Gucci_Mane_feat._Rich_Homie_Quan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Problems",
+      "artist": "Gucci Mane feat. Rich Homie Quan",
+      "has_synced": true,
+      "path": "select/10_No_Problems_Gucci_Mane_feat._Rich_Homie_Quan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jambo / Hakuna Matata (No Problems)",
+      "artist": "Boney M.",
+      "has_synced": false,
+      "path": "select/11_Jambo___Hakuna_Matata_(No_Problems)_Boney_M..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jambo - Hakuna Matata (No Problems) [7\" Version]",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/12_Jambo_-_Hakuna_Matata_(No_Problems)_[7__Version]_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jambo - Hakuna Matata (No Problems) (7\" Version)",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/13_Jambo_-_Hakuna_Matata_(No_Problems)_(7__Version)_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Problems (feat. Rico Love)",
+      "artist": "Fat Joe",
+      "has_synced": true,
+      "path": "select/14_No_Problems_(feat._Rico_Love)_Fat_Joe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Problems",
+      "artist": "Fat Joe",
+      "has_synced": true,
+      "path": "select/15_No_Problems_Fat_Joe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No Shoes, No Shirt, No Problems",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/16_No_Shoes,_No_Shirt,_No_Problems_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "No Problems",
+      "artist": "DZ",
+      "has_synced": true,
+      "path": "select/17_No_Problems_DZ.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "No Problems",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/18_No_Problems_Status_Quo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Problems",
+      "artist": "Ginger Root",
+      "has_synced": false,
+      "path": "select/pl_01_No_Problems_Ginger_Root.txt"
+    }
+  ]
+}
